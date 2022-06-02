@@ -15,7 +15,7 @@ Learn differernt modules of React:
 Folder Structure
 Components & JSX
 Expressions & JSX
-Props
+Properties
 CSS
 Events 
 Routing 
